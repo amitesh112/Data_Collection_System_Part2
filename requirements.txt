@@ -1,0 +1,4 @@
+Django==4.2.6
+pandas==1.4.2
+Requests==2.31.0
+numpy
